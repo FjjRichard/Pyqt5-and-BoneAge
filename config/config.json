@@ -1,0 +1,12 @@
+{
+    "threshold":0.2,
+    "use_gpu":true,
+    "yolo_model_dir":"./inference_model/yolov3_darknet_voc",
+    "classifier_model_dir":"./inference_model/bone_classifier",
+    "grade_line_width":73,
+    "pre_line_width":133,
+    "label_line_width":355,
+    "run_mode":"fluid",
+    "font_size":14,
+    "clipboard_cb":true
+}
