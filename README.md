@@ -26,5 +26,5 @@
 -main.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1485230)
 B：项目运行的环境:win64，python3.6，PaddlePaddle2.0  
